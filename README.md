@@ -1,8 +1,10 @@
-# React + Vite
+# Kodigo Music
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is based on the Spotify music platform, it's an example of the implementation of ReactJS components, use state  and routes as well as form validation with react-hook-forms.
 
-Currently, two official plugins are available:
+# Deploy on Netlify
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Kodigo-Music](https://kodigo-music-celina-guerrero.netlify.app/)
+
+## Bootcamp Full Stack Junior 24a
+## Celina Elizabeth Guerrero Hernández
